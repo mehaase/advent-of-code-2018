@@ -1,0 +1,8 @@
+[package]
+name = "bmac_rust"
+version = "0.1.0"
+authors = ["Brian Mackintosh <bcmackintosh@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rs-bkstring = { git = "https://github.com/TeamHG-Memex/rs-bkstring.git"}
