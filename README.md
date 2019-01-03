@@ -9,6 +9,9 @@ testing so as to reduce the amount of time I spent confusing myself. For this re
 find my solutions helpful if you are stuck on a problem. My original inputs are included,
 as well as output files in a few cases where visualizing the solution was helpful.
 
+My solutions are contained in files called `mark.ipynb`, and my coworkers Jason and Brian also
+contributed some solutions that you will find in this repo.
+
 ![screenshot of completed advent of code](./screenshot.png "Completed AOC")
 
 If you have questions, open an issue here on GitHub!
